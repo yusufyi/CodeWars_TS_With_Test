@@ -1,0 +1,40 @@
+#Node # Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# Environment files
+.env
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+
+# Jest snapshots
+*.snap
+
+# Optional: If you use Yarn
+.yarn/
+
+# Optional: If you use pnpm
+.pnp/
+.pnp.js
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
